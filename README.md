@@ -9,4 +9,8 @@ Functions will be added eventually in the library
 
 To use,
 
-## npm install @jalpenshah/sahay 
+### npm install @jalpenshah/sahay 
+or
+### yarn add @jalpenshah/sahay
+
+Used webpack to bundle package
